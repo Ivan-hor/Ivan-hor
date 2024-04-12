@@ -46,6 +46,7 @@ I'm passionate about programming it feels like a great achievement when you fina
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4b32c3?style=flat-square&logo=eslint&logoColor=f2f4f7" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
@@ -56,7 +57,7 @@ I'm passionate about programming it feels like a great achievement when you fina
  - 💬 Ask me for help
  - 📫 How to reach me:  [linkedin](https://www.linkedin.com/in/ivan-karnaukhov/)
    
- - ⚡ Fun fact: Programmers often debug code by using a rubber duck. They explain their code line-by-line to the duck, which helps them find the error. This technique is affectionately known as "rubber duck debugging.
+ - ⚡ Fun fact: Programmers often debug code by using a rubber duck. They explain their code line-by-line to the duck, which helps them find the error. This technique is affectionately known as "rubber duck debugging".
 
 <!-- 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with
