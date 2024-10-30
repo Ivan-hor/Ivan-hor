@@ -52,12 +52,12 @@ I'm passionate about programming it feels like a great achievement when you fina
 
 </p>
 
- - 🔭 I’m currently with  __Cigna Healthcare__
+ <!--- 🔭 I’m currently with  __Cigna Healthcare__
  - 🌱 I’m currently learning __Java__
  - 💬 Ask me for help
  - 📫 How to reach me:  [linkedin](https://www.linkedin.com/in/ivan-karnaukhov/)
    
- - ⚡ Fun fact: Programmers often debug code by using a rubber duck. They explain their code line-by-line to the duck, which helps them find the error. This technique is affectionately known as "rubber duck debugging".
+ - ⚡ Fun fact: Programmers often debug code by using a rubber duck. They explain their code line-by-line to the duck, which helps them find the error. This technique is affectionately known as "rubber duck debugging". -->
 
 <!-- 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with
